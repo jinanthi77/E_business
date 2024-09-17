@@ -1,0 +1,33 @@
+.section-p1{
+    padding: 40px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#prodetails{
+    display: flex;
+}
+#prodetails .single-pro-image{
+    width: 50%;
+    margin-right: 50px;
+}
+#prodetails .single-pro-details h1{
+    color:#b10a47 ;
+}
+#prodetails .single-pro-details select{
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+#prodetails .single-pro-details input{
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+#prodetails .single-pro-details button{
+    background: #b10a47;
+    color: white;
+}
+#prodetails .single-pro-details span{
+    line-height: 25px;
+}
